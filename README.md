@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="images/header.png">
-</div>
 <!--
 ### Hi there 👋
 **afiqharith/afiqharith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +12,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![afiqharith](https://github.com/afiqharith/afiqharith/blob/main/images/header.png)
 -->
+
+<div align="center">
+  <img src="images/header.png">
+</div>
